@@ -1,0 +1,32 @@
+description.txt
+
+
+This documentation describes Open Source Hardware which complies with the Open Source Hardware Association definition (http://www.oshwa.org/definition/) and is licensed under the
+CERN OHL v. 1.2.This license allows use of the included files by any individual, entity or organization for any purpose, private or commercial, but does not preclude remuneration to the license holder by same.
+
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions.  
+
+License Holder:
+John Crum
+JC Designs/California
+jcrum@jcdesignscalifornia.com
+San Diego, CA
+
+Released 2015-06-15
+
+
+Manual Plunge Freezer
+
+The hardware described herein is a manual plunge freezer.  This technique is primary to the field of structural biology, used to elucidate the structure of virus and proteins. This device is used to quickly freeze biological samples.  In general, the sample is applied to an electron microscope grid (with or without a carbon film substrate), held with fine point forceps, at 3µL per grid.  The sample drop is blotted using filter paper.  The device is activated, which plunges the sample into liquid cryogen.  This cryogen is typically a short chain hydrocarbon such as ethane or propane held in a small beaker or cup immersed in liquid nitrogen, where the temperature of the liquid cryogen is as cold as it can be (typically -175°C for ethane).  Once the sample is plunged into the cryogen, it is stored under liquid nitrogen until examination in a cryo-electron microscope.
+
+This device was originally designed at Purdue University in the 1990’s.  The license holder used a set of plans drawn by Matt McDonough (machinist, Department of Biology) to create this set of 3-D models and 2-D drawings. 
+
+A complete sourced parts list is available from the license holder for a small fee.  Contact information above.
+
+
+ 
